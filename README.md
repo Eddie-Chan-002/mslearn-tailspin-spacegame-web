@@ -1,3 +1,4 @@
+ Azure Pipelines - succeeded 
 
 # Contributing
 
